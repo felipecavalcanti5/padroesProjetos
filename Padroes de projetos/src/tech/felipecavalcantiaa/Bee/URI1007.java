@@ -2,20 +2,18 @@ package tech.felipecavalcantiaa.Bee;
 
 import java.util.Scanner;
 
-public class URI1004 {
+public class URI1007 {
     public static void main(String[] args) {
-        int A;
-        int B;
-        int PROD;
+        int A, B, C, D;
 
         Scanner scan = new Scanner(System.in);
         A = scan.nextInt();
         B = scan.nextInt();
-        PROD = A * B;
+        C = scan.nextInt();
+        D = scan.nextInt();
 
-        System.out.println("PROD = " + PROD);
+        int DIFERENCA = (A*B)-(C*D);
+
+        System.out.println("DIFERENCA = " + DIFERENCA);
     }
 }
-
-
-
