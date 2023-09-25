@@ -1,4 +1,4 @@
-package tech.felipecavalcantiaa.Bee;
+package tech.felipecavalcantiaa.Bee.Beginner;
 
 public class URI1000 {
 
