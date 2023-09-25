@@ -1,4 +1,4 @@
-package tech.felipecavalcantiaa.Bee;
+package tech.felipecavalcantiaa.Bee.Beginner;
 
 import java.sql.SQLOutput;
 import java.util.Scanner;

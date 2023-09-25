@@ -1,18 +1,21 @@
-package tech.felipecavalcantiaa.Bee;
+package tech.felipecavalcantiaa.Bee.Beginner;
 
 import java.util.Scanner;
 
-public class URI1003 {
+public class URI1004 {
     public static void main(String[] args) {
         int A;
         int B;
-        int SOMA;
+        int PROD;
 
         Scanner scan = new Scanner(System.in);
         A = scan.nextInt();
         B = scan.nextInt();
-        SOMA = A + B;
+        PROD = A * B;
 
-        System.out.println("SOMA = " + SOMA);
+        System.out.println("PROD = " + PROD);
     }
 }
+
+
+
