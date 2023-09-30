@@ -19,3 +19,4 @@ public class URI1010 {
         System.out.println(String.format("VALOR A PAGAR: R$ %.2f", (numUnidades1*precoPorUnidade1)+(numUnidades2*precoPorUnidade2)));
     }
 }
+
