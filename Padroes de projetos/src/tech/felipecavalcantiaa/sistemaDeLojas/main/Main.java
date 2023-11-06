@@ -1,6 +1,7 @@
 package tech.felipecavalcantiaa.sistemaDeLojas.main;
 
 import com.SistemaDeLojas.classes.*;
+import tech.felipecavalcantiaa.sistemaDeLojas.classes.*;
 
 import java.time.LocalDate;
 
